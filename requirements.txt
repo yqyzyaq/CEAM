@@ -1,0 +1,84 @@
+absl-py @ file:///opt/concourse/worker/volumes/live/038c7640-529d-45f3-464f-ee37f5e0f4eb/volume/absl-py_1623867246969/work
+appnope==0.1.2
+astor==0.8.1
+backcall==0.2.0
+cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
+certifi==2021.10.8
+chardet==4.0.0
+charset-normalizer==2.0.4
+click==8.0.1
+coverage @ file:///opt/concourse/worker/volumes/live/4f1a5e30-f675-4496-6570-bc6669a34f2a/volume/coverage_1614614860186/work
+cpe==1.2.1
+Cython @ file:///opt/concourse/worker/volumes/live/432fe198-1725-458b-4530-7523a5e3de1a/volume/cython_1626256963932/work
+decorator==5.0.9
+dgl==0.6.1
+fasttext==0.9.2
+filelock==3.0.12
+gast==0.2.2
+gensim==4.1.2
+google-pasta==0.2.0
+grpcio @ file:///opt/concourse/worker/volumes/live/4f7ebd3c-7c5e-48f7-6ff5-de127acdc0d8/volume/grpcio_1614884166576/work
+h5py @ file:///opt/concourse/worker/volumes/live/1e59f611-f2ec-4284-6b66-85a1e0d94198/volume/h5py_1622088428057/work
+huggingface-hub==0.0.12
+idna==3.2
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/4e25a0be-45cc-4b73-4314-4604f00e30a4/volume/importlib-metadata_1617877365451/work
+ipython==7.26.0
+ipython-genutils==0.2.0
+isodate==0.6.0
+jedi==0.18.0
+joblib==1.0.1
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+lxml==4.6.3
+Markdown @ file:///opt/concourse/worker/volumes/live/255f8945-2411-4469-7c82-a749af3aef33/volume/markdown_1614363822772/work
+matching==0.1.1
+matplotlib-inline==0.1.2
+mkl-fft==1.3.0
+mkl-random @ file:///opt/concourse/worker/volumes/live/133f1d0b-8fd8-4fa0-679e-7214401cbd75/volume/mkl_random_1626186083386/work
+mkl-service==2.4.0
+network==0.1
+networkx==2.6.2
+numpy @ file:///opt/concourse/worker/volumes/live/660b80d1-747e-493a-6b34-55d0a0e21650/volume/numpy_and_numpy_base_1626271790683/work
+# Editable install with no version control (openea==1.0)
+-e /Users/yueqin/OpenEA/src
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging==21.0
+pandas==0.24.2
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.20
+protobuf==3.17.2
+ptyprocess==0.7.0
+pybind11==2.7.1
+Pygments==2.10.0
+pyparsing==2.4.7
+python-dateutil==2.8.2
+python-Levenshtein==0.12.2
+pytz==2021.1
+PyYAML==6.0
+rdflib==6.0.2
+regex==2021.8.21
+requests==2.26.0
+sacremoses==0.0.45
+scikit-learn==0.24.2
+scipy @ file:///opt/concourse/worker/volumes/live/a038d231-fbb5-4cf5-6b71-513b1c94ddce/volume/scipy_1618855950518/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+smart-open==5.2.1
+tensorboard==2.0.0
+tensorflow==2.0.0
+tensorflow-estimator==2.0.0
+termcolor==1.1.0
+threadpoolctl==2.2.0
+tokenizers==0.10.3
+torch==1.9.0
+tqdm==4.62.1
+traitlets==5.0.5
+transformers==4.9.2
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+urllib3==1.26.6
+wcwidth==0.2.5
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
